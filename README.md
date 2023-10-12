@@ -1,3 +1,3 @@
-# portfolio elonmusk
+portfolio elonmusk
 
-https://nuthaim.github.io/portfolio-demo/
+https://nuthaim.github.io/portfolio-elonmusk/
